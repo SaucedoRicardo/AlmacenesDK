@@ -1,0 +1,10 @@
+/* Estilos para dispositivos de escritorio */
+@media screen and (min-width: 768px) {
+    /* Aquí van tus estilos para dispositivos de escritorio */
+  }
+  
+  /* Estilos para dispositivos móviles */
+  @media screen and (max-width: 767px) {
+    /* Aquí van tus estilos para dispositivos móviles */
+  }
+  
